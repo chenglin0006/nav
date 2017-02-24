@@ -20,3 +20,10 @@ showFilterFlag：必选，是否显示筛选下拉框
 surenav:必选，每次选中后会将当前nav的选中值传给外部函数处理
 
 访问链接：https://chenglin0006.github.io/nav/test/dist/index.html
+
+
+本地调试
+# cd nav
+# npm install
+# webpack --watch
+# npm start
